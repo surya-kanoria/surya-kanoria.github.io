@@ -46,7 +46,7 @@ linkedin_username: suryakanoria
 
 # About Section
 # about_title: About Me
-about_profile_image: images/Surya.jpg
+about_profile_image: images/Surya.JPG
 about_content: | # this will include new lines to allow paragraphs
   My primary interest lies in scalable Applied Machine Learning. I single-handedly developed the end-to-end data and machine learning pipelines that provides music recommendations to new users. I have also worked extensively to develop a Personalised Review Ranking system for ~100 million users at Flipkart. Additionally, I worked on a context-based spell correction system for e-commerce reviews and intelligent auto-answering bot. I enjoy working on the end to end lifecycle of a Data Science project - from data analysis and feature engineering to model development and tuning.
   In addition, I have spent four years working as a Software Development Engineer at Flipkart where I have primarily worked on the Android, Website and Windows platforms. My most notable contribution was single-handedly developing an open-source library called DUS which allowed mobile application developers to update the source code on their user’s devices on the fly.
