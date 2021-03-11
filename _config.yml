@@ -9,7 +9,7 @@ version: 2
 name: Surya Kanoria
 title: Machine Learning Engineer
 email: suryakanoria@gmail.com
-website: https://surya-kanoria.github.io/
+# website: https://surya-kanoria.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,10 +48,11 @@ linkedin_username: suryakanoria
 # about_title: About Me
 about_profile_image: images/Surya.JPG
 about_content: | # this will include new lines to allow paragraphs
-  My primary interest lies in scalable Applied Machine Learning. I single-handedly developed the end-to-end data and machine learning pipelines that provides music recommendations to new users. I have also worked extensively to develop a Personalised Review Ranking system for ~100 million users at Flipkart. Additionally, I worked on a context-based spell correction system for e-commerce reviews and intelligent auto-answering bot. I enjoy working on the end to end lifecycle of a Data Science project - from data analysis and feature engineering to model development and tuning.
-  In addition, I have spent four years working as a Software Development Engineer at Flipkart where I have primarily worked on the Android, Website and Windows platforms. My most notable contribution was single-handedly developing an open-source library called DUS which allowed mobile application developers to update the source code on their user’s devices on the fly.
-  I am currently completing my MS in Computer Science with a focus on Data Science & Engineering at CU Boulder. My research project includes Interpretability of BERT under Dr. Chenhao Tan and generating bird sounds from bird images using Generative Adversarial Network under Dr. Geena Kim. I hope to leverage my previous experience complemented by research experience in Masters to develop scalable Machine Learning systems in the industry. 
+  Hi! My name is Surya and I am an incomming Machine Learning Engineer at Spotify. Additionally, I am working in the (Chicago Human + AI Lab)[https://chicagohai.github.io/]. I am interested in developing more robust machine learning practices in the real world and my research interest includes:
+    1. Better Human-AI interaction by developing a better understanding of machine learning models.
+    2. Scaling machine learning models for hundreds of millions of users in the industry.
 
+  I completed my MS in Computer Science from the University of Colorado Boulder where I was advised by Dr. Chenhao Tan and Dr. Geena Kim. I recieved my Bachelor's in Chemical Engineering from BITS Pilani, India.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -113,7 +114,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
