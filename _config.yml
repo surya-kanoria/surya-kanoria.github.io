@@ -7,17 +7,19 @@ version: 2
 
 # Personal info
 name: Surya Kanoria
-title: Machine Learning Engineer
+# title: Machine Learning Engineer
 email: suryakanoria@gmail.com
-description: Surya Kanoria
+description: Professional website for Surya Kanoria
 # website: https://surya-kanoria.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: suryakanoria
 github_username:  surya-kanoria
+author: Surya Kanoria
+
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
