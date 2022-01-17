@@ -51,8 +51,8 @@ linkedin_username: suryakanoria
 # about_title: About Me
 about_profile_image: images/Surya.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name is Surya and I am an incoming Machine Learning Engineer at Spotify. I am also working in the [Chicago Human + AI Lab](https://chicagohai.github.io/). I am excited about making machine learning more robust in the real world and my research interest includes:
-  
+  Hi! My name is Surya and I am a Machine Learning Engineer at Spotify working on Reinforcement Learning for music recommendations at a scale of millions of users. I am excited about applying state-of-the-art machine learning / reinforcement learning in the industry. Before Spotify, I worked in the [Chicago Human + AI Lab](https://chicagohai.github.io/). My research interest includes:
+  - Recommender systems 
   - Better Human-AI interaction by developing a better understanding of machine learning models.
   - Scaling machine learning models and practices for hundreds of millions of users in the industry.
 
@@ -84,6 +84,12 @@ content:
 
       - layout: left
         title: Spotify
+        sub_title: Machine Learning Engineer
+        caption: May 2021 - Present
+        description: Currently working on Reinforcement Learning for music recommendations for millions of Spotify users.
+      
+      - layout: left
+        title: Spotify
         sub_title: Machine Learning Intern
         caption: May 2020 - December 2020
         description: Developed end to end machine learning pipeline at Spotify that allows music personalization for new users. Implemented data aggregation, feature engineering, a learning to rank mode and real-time predictions for 300 million users.
@@ -110,18 +116,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
-      
       - layout: top
-        title: Learning from Explanations
-        caption: Jan 2021 - Present
+        title: What to Learn, and How Toward Effective Learning from Rationales
+        caption: Jan 2021 - May 2021
         sub_title: Chicago Human + AI Lab
-        description: Work in progress
+        description: https://arxiv.org/abs/2112.00071
       
       - layout: top
         title: Interpretability of Transformer Network
         caption: Aug 2020 - Dec 2019
         sub_title: University of Colorado Boulder
-        description: Currently under review
+        description: Worked on my master's research project advised by Dr. Chenhao Tan. We examined the amount of information preseved about input words in the hidden representations of BERT. Submitted a research paper to ACL based on our results.
       
       - layout: top
         title: Sound generation based on visual input
